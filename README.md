@@ -2,8 +2,8 @@
 #### A passionate MERN Stack developer from India
 
 
-![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165929100-c93569b0-9d92-44a0-b801-24a11693a3ce.png)
 
+![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165935593-66cffb70-c85f-4e11-9693-71f302657672.png)
 
 I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy learning languages and frameworks like React!. I have developed various MERN stack projects as well, you can check out my repositories for more details.
 
