@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Prarthna Luthra
 #### A passionate MERN Stack developer from India
-![A passionate MERN Stack developer from India]
+
 
 ![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165929100-c93569b0-9d92-44a0-b801-24a11693a3ce.png)
 
