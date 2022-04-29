@@ -1,6 +1,9 @@
 ### Hi there 👋, I am Prarthna Luthra
 #### A passionate MERN Stack developer from India
-![A passionate MERN Stack developer from India](https://i.postimg.cc/ZKWsvcn3/1-orig.jpg)
+![A passionate MERN Stack developer from India]
+
+![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165929100-c93569b0-9d92-44a0-b801-24a11693a3ce.png)
+
 
 I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy learning languages and frameworks like React!. I have developed various MERN stack projects as well, you can check out my repositories for more details.
 
@@ -13,3 +16,4 @@ Skills: NODE JS / REACT / JS / HTML / CSS/EXPRESS JS/MONGO DB
 
 
 ![Prarthna's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrarthnaLuthra&hide=contribs,prs)
+
