@@ -3,7 +3,10 @@
 
 
 
-![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165935593-66cffb70-c85f-4e11-9693-71f302657672.png)
+<!-- ![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165935593-66cffb70-c85f-4e11-9693-71f302657672.png) -->
+
+
+![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png)
 
 I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy learning languages and frameworks like React!. I have developed various MERN stack projects as well, you can check out my repositories for more details.
 
