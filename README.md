@@ -17,7 +17,7 @@ I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&theme=tokyonight)
-![PrarthnaLuthra's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrarthnaLuthra&theme=radical&show_icons=true)
+![PrarthnaLuthra's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrarthnaLuthra&count_private=true&show_icons=true&theme=radical)
 
 
 <br />
