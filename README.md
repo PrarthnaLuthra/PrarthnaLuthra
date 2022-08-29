@@ -10,7 +10,8 @@
 
 I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy learning languages and frameworks like React!. I have developed various MERN stack projects as well, you can check out my repositories for more details.
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrarthnaLuthra&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
