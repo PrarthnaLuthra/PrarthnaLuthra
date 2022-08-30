@@ -7,12 +7,13 @@
 
 
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true)
 
 I'm Prarthna and I am a student at IIT Hyderabad. I am a quick learner and enjoy learning languages and frameworks like React!. I have developed various MERN stack projects as well, you can check out my repositories for more details.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrarthnaLuthra&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&bg_color=000000&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark)
+
 
 <br />
 <br />
