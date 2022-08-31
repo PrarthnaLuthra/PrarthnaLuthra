@@ -19,38 +19,8 @@
 ---
 
 ### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,postman,api,json,git,vscode,java,c,python,firebase,materialui,graphql,eclipse,netlify,heroku,vercel)](https://skillicons.dev)
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40px" />
-<img align="left" src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&fit=max&dpr=1" alt="tailwindcss" width="40" />
-<img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react" width="40" />
-<img align="left" src="https://www.pngkit.com/png/full/66-667065_js-club-new-balance-png-logo-node-js.png" alt="react" width="40" />
-<img align="left" src="https://miro.medium.com/max/1400/1*8ETcaw-gA1dYW4EFxqGK3w.png" alt="react" width="70" />
-<img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="40px" />
-
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="postman" width="40px" img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" />
-
-<img align="left" alt="postman" width="40px" img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" alt="postman" width="80" />
-
-<img align="left" alt="postman" width="40px" img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-7.png" alt="postman" width="40" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-
-
-
-
-
-<br />
-<br />
-<br />
-<br />
 
 ---
 
