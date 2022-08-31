@@ -16,8 +16,12 @@
 ---
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,postman,api,json,git,vscode,java,c,python,firebase,materialui,graphql,eclipse,netlify,heroku,vercel)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,postman,api,json,git,vscode,java,c,python,firebase,materialui,graphql,eclipse,netlify,heroku,vercel" />
+  </a>
+</p>
 
 ---
 
