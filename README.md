@@ -13,9 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&bg_color=000000&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br />
-<br />
-
 ---
 
 ### Languages and tools:
