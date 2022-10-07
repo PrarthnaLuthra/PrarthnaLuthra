@@ -19,7 +19,7 @@
 
 <p align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,git,vscode,java,c,python,firebase,materialui,graphql,eclipse,netlify,heroku,vercel,redux,jquery,regex,apollo,idea,matlab" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,scss,react,typescript,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,git,vscode,java,c,python,firebase,materialui,graphql,eclipse,netlify,heroku,vercel,redux,jquery,regex,apollo,idea,matlab" />
   </div>
 </p>
 
