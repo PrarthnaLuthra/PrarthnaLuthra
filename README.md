@@ -23,7 +23,7 @@
 </p>
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=PrarthnaLuthra&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Follower&no-frame=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=PrarthnaLuthra&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Follower&no-frame=true)
 
 ---
 
