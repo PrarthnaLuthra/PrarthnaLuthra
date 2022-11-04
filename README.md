@@ -11,7 +11,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrarthnaLuthra&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&bg_color=000000&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrarthnaLuthra&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Follower&no-frame=true)]
 
 ---
 
@@ -22,6 +21,9 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,scss,react,typescript,mongodb,nodejs,expressjs,nextjs,mysql,tailwindcss,bootstrap,git,java,c,python,firebase,materialui,graphql,vscode,eclipse,idea,netlify,heroku,vercel,redux,jquery,regex,apollo,matlab" />
   </div>
 </p>
+
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=PrarthnaLuthra&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Follower&no-frame=true)]
 
 ---
 
