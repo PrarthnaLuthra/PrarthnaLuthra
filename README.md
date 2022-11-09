@@ -2,10 +2,6 @@
 #### A passionate MERN Stack developer from India
 
 
-
-<!-- ![Untitled design (4)](https://user-images.githubusercontent.com/100023570/165935593-66cffb70-c85f-4e11-9693-71f302657672.png) -->
-
-
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png)
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true)
 
