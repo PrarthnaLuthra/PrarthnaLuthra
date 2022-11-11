@@ -6,7 +6,7 @@
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PrarthnaLuthra&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&bg_color=000000&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true)
+![Top Langs](https://github-readme-stats-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=radical&bg_color=000000&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true&count-private=true)
 
 ---
 
