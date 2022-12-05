@@ -3,6 +3,7 @@
 
 
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png)
+
 <!--![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true)-->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
 
