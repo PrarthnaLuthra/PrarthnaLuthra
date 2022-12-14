@@ -1,4 +1,4 @@
-# Hi I am Prarthna 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7536B2&size=29&multiline=true&width=700&lines=Heya!+I'm+Prarthna+👋)](https://git.io/typing-svg)
 #### A passionate MERN Stack developer from India
 
 
