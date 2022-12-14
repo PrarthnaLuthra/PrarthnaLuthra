@@ -1,4 +1,4 @@
-# Hi there , I am Prarthna Luthra 👋
+# Hi I am Prarthna 👋
 #### A passionate MERN Stack developer from India
 
 
