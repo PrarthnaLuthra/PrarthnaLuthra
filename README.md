@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7536B2&size=29&multiline=true&width=700&lines=Heya!+I'm+Prarthna+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&pause=1000&color=A84DFF&width=435&lines=Heya++I'm+Prarthna+%F0%9F%91%8B)](https://git.io/typing-svg)
 #### A passionate MERN Stack developer from India
 
 
