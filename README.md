@@ -28,7 +28,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+![trophy](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
