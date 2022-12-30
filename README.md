@@ -3,10 +3,12 @@
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png)
 <!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true) -->
 
+
 <div align="center">
-   <img src=https://streak-stats.demolab.com?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&background=0d1117&hide_border=true
-        />
+ <img src=https://streak-stats.demolab.com?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true
+        />
  <img src= "./profile-3d-contrib/profile-night-view.svg"/>
+   
   </div>
   
 |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=6)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)|
@@ -27,7 +29,6 @@
 </p>
 
 ---
-
 ![trophy](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
