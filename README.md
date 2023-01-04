@@ -3,11 +3,22 @@
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
 <!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true) -->
 ![cover-light-mode](https://user-images.githubusercontent.com/100023570/210518490-d36d300e-b4dd-4675-b237-4dfd59123f02.jpg#gh-light-mode-only)
-[![GitHub Streak light](https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9554&dates=530081&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
-[![GitHub Streak Dark](https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
+
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9554&dates=530081&hide_border=true">
+  <img alt="" src="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true">
+</picture>
+</div>
+
+
+<!-- [![GitHub Streak light](https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9554&dates=530081&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak Dark](https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only) -->
 ![3d-dark](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
-<div></div>
+ 
 
  
 |[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=6)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=6)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|
