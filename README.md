@@ -4,7 +4,7 @@
 <!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrarthnaLuthra&theme=react-dark&hide_border=true) -->
 
 <div align="center">
- <img src=https://streak-stats.demolab.com?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true
+ <img src=https://streak-stats.demolab.com?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&hide_border=true
         />
  <img src= "./profile-3d-contrib/profile-night-view.svg"/>
    
