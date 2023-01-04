@@ -12,7 +12,7 @@
   
 |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=6)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)|
 |---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github_dark)|![Top Langs](https://github-readme-stats-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=github_dark&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true&count-private=true)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github_dark)|![Top Langs](https://github-readme-stats-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=transparent&border_color=7536B2&title_color=D280FF&langs_count=10&card_width=450&hide_border=true&count-private=true)|
 
 
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
