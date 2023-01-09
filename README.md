@@ -33,7 +33,6 @@
 
 <!-- Animation  -->
 <!-- ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg) -->
-
 ---
 
 ### Languages and tools:
