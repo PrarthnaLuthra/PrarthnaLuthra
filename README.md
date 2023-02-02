@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Heya!+I'm+Prarthna+%F0%9F%91%8B)](https://git.io/typing-svg)
-#### Full Stack Developer with expertise in React Framework. 
+#### Full Stack Developer with expertise in React Framework
 <!-- Cover Photo -->
 
 <!-- dark mode -->
@@ -24,10 +24,9 @@
 <!-- light mode -->
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
  
-
 <!-- Stats table -->
  
-|[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|
+|[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=6)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|
 |---|---|
 |[![Repos per language Light](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Repos per language Dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|![Top Langs](https://github-readme-stats-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=transparent&border_color=7536B2&title_color=0364d0&langs_count=10&card_width=450&hide_border=true&count-private=true)|
 
