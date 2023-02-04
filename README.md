@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Heya!+I'm+Prarthna+%F0%9F%91%8B)](https://git.io/typing-svg)
 #### Full Stack Developer with expertise in React Framework
 <!-- Cover Photo -->
-
 <!-- dark mode -->
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
 <!-- light mode -->
