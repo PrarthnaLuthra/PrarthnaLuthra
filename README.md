@@ -51,4 +51,6 @@
 ---
 ### Connect With Me:
 <!-- [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/PrarthnaLuthra)   -->
-[<img src='https://mpng.subpng.com/20180320/qhq/kisspng-blue-trademark-angle-area-linkedin-5ab0b94d559dd5.8312605915215312133507.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prarthnaluthra/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)  
+<!-- [<img src='https://mpng.subpng.com/20180320/qhq/kisspng-blue-trademark-angle-area-linkedin-5ab0b94d559dd5.8312605915215312133507.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prarthnaluthra/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)   -->
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prarthnaluthra/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prarthna_luthra)
