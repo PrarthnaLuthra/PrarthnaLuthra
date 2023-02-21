@@ -51,6 +51,6 @@
 ---
 ### Connect With Me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prarthnaluthra/) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PrarthnaLuthra)  [<img src='https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png' alt='mail' height='30'>](https://mail.google.com/mail/u/0/?fs=1&to=prarthnaluthra@gmail.com&tf=cm) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prarthna_luthra) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18687998/prarthna-luthra)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prarthnaluthra/) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PrarthnaLuthra)  [<img src='https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png' alt='mail' height='40'>](https://mail.google.com/mail/u/0/?fs=1&to=prarthnaluthra@gmail.com&tf=cm) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prarthna_luthra) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18687998/prarthna-luthra)
 
 <!-- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app) -->
