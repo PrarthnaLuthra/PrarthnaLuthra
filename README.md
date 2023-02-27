@@ -45,16 +45,19 @@
 
 ---
 <!-- trophy -->
-<!-- light mode -->
-[![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
-<!-- dark mode -->
-[![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B,A)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
+
 
 <p align="center" >
     <a>
       <img width="550px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
      </a>
 </p>
+
+---
+<!-- light mode -->
+[![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
+<!-- dark mode -->
+[![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B,A)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
 ---
 <!-- ### Connect With Me: -->
