@@ -39,7 +39,7 @@
 
 <p align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter" /> 
   </div>
 </p>
 
@@ -49,6 +49,12 @@
 [![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
 <!-- dark mode -->
 [![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B,A)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
+
+<p align="center" >
+    <a>
+      <img width="650px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+     </a>
+</p>
 
 ---
 <!-- ### Connect With Me: -->
