@@ -19,7 +19,7 @@
 
 <!-- 3d Contribution -->
 <!-- dark mode -->
-![3d-dark](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
+![3d-dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 <!-- light mode -->
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
  
