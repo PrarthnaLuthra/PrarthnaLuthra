@@ -46,6 +46,33 @@
 
 ---
 
+<!-- ### Languages and tools: -->
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
+
+<p align="center">
+  <div>
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter,expo" /> 
+  </div>
+</p>
+
+---
+<!-- trophy -->
+<!-- light mode -->
+[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Achievements)](https://git.io/typing-svg)
+
+[![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
+<!-- dark mode -->
+[![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
+
+---
+<!-- ### Connect With Me: -->
+[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
+
+ [<img src='https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_614,h_614,c_fit/f_png/e_colorize:0,co_rgb:000000/w_644,h_644,c_lpad/e_trim:1/w_512,h_512,c_fit/s3.prod/assets.00/asst44ju1ypb' alt='mail' height='46' width='46'>](https://mail.google.com/mail/u/0/?fs=1&to=prarthnaluthra@gmail.com&tf=cm)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prarthnaluthra/) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PrarthnaLuthra) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prarthna_luthra)  [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18687998/prarthna-luthra) [<img src='https://www.freepnglogos.com/uploads/telegram-logo-4.png' alt='website' height='50'>](https://t.me/PrarthnaLuthra) [![Dev to](https://skillicons.dev/icons?i=devto)](https://dev.to/prarthnaluthra) [![Insta](https://skillicons.dev/icons?i=instagram)](https://instagram.com/theportraitvan?igshid=YmMyMTA2M2Y=)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)
+ <!-- |---|---|---|---|---|---|---|---| -->
+<!-- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)| -->
+
+
 ```react
 
 import React from "react";
@@ -72,31 +99,3 @@ export default FullStackDeveloper;
 
 
 ```
-
----
-
-<!-- ### Languages and tools: -->
-[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
-
-<p align="center">
-  <div>
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter,expo" /> 
-  </div>
-</p>
-
----
-<!-- trophy -->
-<!-- light mode -->
-[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Achievements)](https://git.io/typing-svg)
-
-[![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
-<!-- dark mode -->
-[![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
-
----
-<!-- ### Connect With Me: -->
-[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
-
- [<img src='https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_614,h_614,c_fit/f_png/e_colorize:0,co_rgb:000000/w_644,h_644,c_lpad/e_trim:1/w_512,h_512,c_fit/s3.prod/assets.00/asst44ju1ypb' alt='mail' height='46' width='46'>](https://mail.google.com/mail/u/0/?fs=1&to=prarthnaluthra@gmail.com&tf=cm)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prarthnaluthra/) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PrarthnaLuthra) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prarthna_luthra)  [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18687998/prarthna-luthra) [<img src='https://www.freepnglogos.com/uploads/telegram-logo-4.png' alt='website' height='50'>](https://t.me/PrarthnaLuthra) [![Dev to](https://skillicons.dev/icons?i=devto)](https://dev.to/prarthnaluthra) [![Insta](https://skillicons.dev/icons?i=instagram)](https://instagram.com/theportraitvan?igshid=YmMyMTA2M2Y=)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)
- <!-- |---|---|---|---|---|---|---|---| -->
-<!-- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013' alt='website' height='40'>](https://prarthna-luthra-resume.web.app)| -->
