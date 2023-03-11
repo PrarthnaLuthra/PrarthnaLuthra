@@ -46,6 +46,26 @@
 
 ---
 
+```react
+
+import React from "react";
+
+function FullStackDeveloper() {
+  const githubUser = {
+    name: "Prarthna Luthra",
+    techStack: "MERN",
+    nonCodingLanguages: ["hi_IN", "en_US"],
+  };
+  return ( 
+   <div>{githubUser && <h1>{githubUser.name} says Thanks for dropping by, hope you find some of my work interesting!</h1>}</div>);
+}
+
+export default FullStackDeveloper;
+
+```
+
+---
+
 <!-- ### Languages and tools: -->
 [![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
