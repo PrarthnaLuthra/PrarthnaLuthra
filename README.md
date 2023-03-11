@@ -56,11 +56,20 @@ function FullStackDeveloper() {
     techStack: "MERN",
     nonCodingLanguages: ["hi_IN", "en_US"],
   };
-  return ( 
-   <div>{githubUser && <h1>{githubUser.name} says Thanks for dropping by, hope you find some of my work interesting!</h1>}</div>);
+  return (
+    <div>
+      {githubUser && (
+        <h1>
+          {githubUser.name} says Thanks for dropping by, hope you find some of
+          my work interesting!
+        </h1>
+      )}
+    </div>
+  );
 }
 
 export default FullStackDeveloper;
+
 
 ```
 
