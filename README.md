@@ -69,7 +69,6 @@
  ---
 
 ```react
-
 import React from "react";
 
 function FullStackDeveloper() {
@@ -91,8 +90,6 @@ function FullStackDeveloper() {
 }
 
 export default FullStackDeveloper;
-
-
 ```
 ---
 
