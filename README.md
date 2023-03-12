@@ -33,16 +33,6 @@
 <!-- Animation  -->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
 ---
-<div align="center">
- <picture>
-  <!-- dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-   <!-- light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style-Light/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-  <img width="550px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-  
-</picture>
-</div>
 
 ---
 
@@ -91,6 +81,17 @@ function FullStackDeveloper() {
 
 export default FullStackDeveloper;
 ```
+<div>
+ <picture>
+  <!-- dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+   <!-- light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style-Light/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+  <img width="650px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+  
+</picture>
+</div>
+
 ---
 
 <!-- ### Connect With Me: -->
