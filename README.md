@@ -68,7 +68,7 @@
  <!-- |---|---|---|---|---|---|---|---| -->
  ---
 
-```react
+```javascript
 import React from "react";
 
 function FullStackDeveloper() {
