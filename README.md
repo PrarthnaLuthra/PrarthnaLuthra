@@ -41,7 +41,7 @@
 
 <p align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter,expo" /> 
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,mysql,mongodb,nodejs,expressjs,scss,tailwindcss,bootstrap,materialui,git,github,githubactions,java,c,python,vscode,eclipse,idea,firebase,netlify,heroku,vercel,redux,jquery,regex,apollo,graphql,matlab,dart,flutter,markdown" /> 
   </div>
 </p>
 
