@@ -68,9 +68,9 @@ function FullStackDeveloper() {
     nonCodingLanguages: ["hi_IN", "en_US"],
   };
   return (
-    <div className="flex items-center justify-center font-bold bg-slate-900 text-[#A84DFF]">
+    <div className="flex items-center justify-center font-bold bg-slate-900 text-[#A84DFF] rounded-md w-full h-full">
       {githubUser && (
-        <h1>
+        <h1 className="text-3xl">
           {githubUser.name} says Thanks for dropping by, hope you find some of
           my work interesting!
         </h1>
