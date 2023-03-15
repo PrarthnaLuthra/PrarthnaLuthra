@@ -1,10 +1,12 @@
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 #### A Full Stack Developer with an expertise in React Framework
+
 <!-- Cover Photo -->
 <!-- dark mode -->
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
 <!-- light mode -->
 ![cover-light-mode](https://user-images.githubusercontent.com/100023570/210518490-d36d300e-b4dd-4675-b237-4dfd59123f02.jpg#gh-light-mode-only)
+
 
 <!-- Streak Count  -->
 <div align="center">
@@ -17,11 +19,13 @@
 </picture>
 </div>
 
+
 <!-- 3d Contribution -->
 <!-- dark mode -->
 ![3d-dark](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
 <!-- light mode -->
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+ 
  
 <!-- Stats table -->
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Github+Stats)](https://git.io/typing-svg)
@@ -87,8 +91,7 @@ export default FullStackDeveloper;
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
    <!-- light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style-Light/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-  <img width="450px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-  
+  <img width="450px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats"> 
 </picture>
 </div>
 
@@ -96,10 +99,7 @@ export default FullStackDeveloper;
 
 <!-- ### Connect With Me: -->
 [![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
-
-
  
 | **Linkedin**  | **Twitter**  | **Gmail**  | **Dev.to** | **Telegram** | **Instagram** | **Github** | **Website** | **Stack Overflow**  |
 |---|---|---|---|---|---|---|---|---|
 |<p align="center" ><a href="https://www.linkedin.com/in/prarthnaluthra/" title="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40px" height="40px"></a></p>|<p align="center" ><a href="https://twitter.com/prarthna_luthra" title="Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40px" height="40px"></a> </p>|<p align="center" ><a href="mailto:prarthnaluthra@gmail.com" title="Gmail"><img src="https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_614,h_614,c_fit/f_png/e_colorize:0,co_rgb:000000/w_644,h_644,c_lpad/e_trim:1/w_512,h_512,c_fit/s3.prod/assets.00/asst44ju1ypb" alt="Gmail" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://dev.to/prarthnaluthra" title="Blogs"><img src="https://skillicons.dev/icons?i=devto" alt="dev.to" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://t.me/PrarthnaLuthra" title="Telegram"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="Telegram" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://instagram.com/theportraitvan?igshid=YmMyMTA2M2Y=" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://github.com/PrarthnaLuthra" title="Github"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://prarthna-luthra-resume.web.app" title="Website"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013" alt="Stackoverflow" width="40px" height="40px"></a> </p>| <p align="center" ><a href="https://stackoverflow.com/users/18687998/prarthna-luthra" title="StackOverflow"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow" width="40px" height="40px"></a> </p>|
-
