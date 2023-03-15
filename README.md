@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 #### A Full Stack Developer with an expertise in React Framework
 
 <!-- Cover Photo -->
@@ -36,7 +36,7 @@
 
 <!-- Animation  -->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
----
+
 
 ---
 
