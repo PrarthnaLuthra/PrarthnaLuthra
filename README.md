@@ -50,9 +50,9 @@
 <!-- light mode -->
 [![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Achievements)](https://git.io/typing-svg)
 
-[![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
+[![trophy light](https://github-profile-trophy-one.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
 <!-- dark mode -->
-[![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
+[![trophy dark](https://github-profile-trophy-one.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
 
  <!-- |---|---|---|---|---|---|---|---| -->
