@@ -19,13 +19,11 @@
 </picture>
 </div>
 
-
 <!-- 3d Contribution -->
 <!-- dark mode -->
 ![3d-dark](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
 <!-- light mode -->
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
- 
  
 <!-- Stats table -->
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Github+Stats)](https://git.io/typing-svg)
@@ -36,7 +34,6 @@
 
 <!-- Animation  -->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
