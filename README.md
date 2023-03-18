@@ -26,7 +26,7 @@
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
  
 <!-- Stats table -->
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Github+Stats)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Github+Stats+📶)](https://git.io/typing-svg)
  
 |[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|
 |---|---|
