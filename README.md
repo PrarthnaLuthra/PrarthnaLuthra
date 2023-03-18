@@ -38,7 +38,7 @@
 ---
 
 <!-- Languages and tools: -->
-[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools</>)](https://git.io/typing-svg)
 
 <p align="center">
   <div>
@@ -96,7 +96,7 @@ export default FullStackDeveloper;
 ---
 
 <!--Connect With Me: -->
-[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
+[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me!)](https://git.io/typing-svg)
  
 | **Linkedin**  | **Twitter**  | **Gmail**  | **Dev.to** | **Telegram** | **Instagram** | **Github** | **Website** | **Stack Overflow**  |
 |---|---|---|---|---|---|---|---|---|
