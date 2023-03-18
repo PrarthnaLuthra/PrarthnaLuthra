@@ -55,8 +55,6 @@
 <!-- dark mode -->
 [![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
-
- <!-- |---|---|---|---|---|---|---|---| -->
  ---
 
 ```javascript
