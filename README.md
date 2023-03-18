@@ -66,6 +66,7 @@ function FullStackDeveloper() {
     techStack: "MERN",
     nonCodingLanguages: ["hi_IN", "en_US"],
   };
+  
   return (
     <div className="flex items-center justify-center font-bold bg-slate-900 shadow-lg rounded-md w-full h-full">
       {githubUser && (
