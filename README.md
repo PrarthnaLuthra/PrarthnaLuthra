@@ -70,10 +70,10 @@ function FullStackDeveloper() {
   return (
     <div className="flex items-center justify-center font-bold bg-slate-900 shadow-lg rounded-md w-full h-full">
       {githubUser && (
-        <h1 className="text-3xl text-[#A84DFF]">
+        <p className="text-3xl text-[#A84DFF]">
           Hey! It's {githubUser.name}, Thanks for dropping by, hope you find some of
           my work interesting!
-        </h1>
+        </p>
       )}
     </div>
   );
