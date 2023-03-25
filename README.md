@@ -69,7 +69,7 @@ function FullStackDeveloper() {
     <div className="flex items-center justify-center font-bold bg-slate-900 shadow-lg rounded-md w-full h-full">
       {githubUser && (
         <p className="text-3xl text-[#A84DFF]">
-          Hey! It's {githubUser.name}, Thanks for dropping by, hope you find some of
+          Hey There, It's {githubUser.name}, Thanks for dropping by, hope you find some of
           my work interesting!
         </p>
       )}
