@@ -53,6 +53,7 @@
 <!-- dark mode -->
 [![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
+
  ---
 
 ```javascript
@@ -89,6 +90,7 @@ export default FullStackDeveloper;
   <img width="450px" src="https://raw.githubusercontent.com/PrarthnaLuthra/Git-Stats-Terminal-Style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats"> 
 </picture>
 </div>
+
 
 ---
 
