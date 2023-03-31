@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Intro>)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Header>)](https://git.io/typing-svg)
 
 [![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 #### I'm a Full Stack Developer with an expertise in React
@@ -10,7 +10,7 @@
 <!-- Animation  -->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Intro/>)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Header/>)](https://git.io/typing-svg)
 
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Github+Stats>)](https://git.io/typing-svg)
 <!-- Streak Count  -->
@@ -41,7 +41,7 @@
 ---
 
 <!-- Languages and tools: -->
-[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Languages+and+Tools+</>)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Languages+and+Tools>)](https://git.io/typing-svg)
 
 <p align="center">
   <div>
@@ -49,16 +49,20 @@
   </div>
 </p>
 
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Languages+and+Tools/>)](https://git.io/typing-svg)
+
 ---
 <!-- trophy -->
 <!-- light mode -->
-[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Achievements)](https://git.io/typing-svg)
+[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Achievements>)](https://git.io/typing-svg)
 
 [![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
 <!-- dark mode -->
 [![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
+[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Achievements/>)](https://git.io/typing-svg)
 
+[![Footer](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Footer>)](https://git.io/typing-svg)
  ---
 
 ```javascript
@@ -100,8 +104,12 @@ export default FullStackDeveloper;
 ---
 
 <!--Connect With Me: -->
-[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=Connect+with+me+!)](https://git.io/typing-svg)
+[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Connect+with+me>)](https://git.io/typing-svg)
  
 | **Linkedin**  |  **Gmail**    | **Twitter** | **Dev.to** | **Telegram** | **Instagram** | **Github** | **Website** | **Stack Overflow**  |
 |---|---|---|---|---|---|---|---|---|
 |<p align="center" ><a href="https://www.linkedin.com/in/prarthnaluthra/" title="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40px" height="40px"></a></p>|<p align="center" ><a href="mailto:prarthnaluthra@gmail.com" title="Gmail"><img src="https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_614,h_614,c_fit/f_png/e_colorize:0,co_rgb:000000/w_644,h_644,c_lpad/e_trim:1/w_512,h_512,c_fit/s3.prod/assets.00/asst44ju1ypb" alt="Gmail" width="40px" height="40px"></a> </p> |<p align="center" ><a href="https://twitter.com/prarthna_luthra" title="Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://dev.to/prarthnaluthra" title="Blogs"><img src="https://skillicons.dev/icons?i=devto" alt="dev.to" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://t.me/PrarthnaLuthra" title="Telegram"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="Telegram" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://instagram.com/theportraitvan?igshid=YmMyMTA2M2Y=" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://github.com/PrarthnaLuthra" title="Github"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://prarthna-luthra-resume.web.app" title="Website"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/150px-ICloud_logo.svg.png?20200306180013" alt="Website" width="40px" height="40px"></a> </p>| <p align="center" ><a href="https://stackoverflow.com/users/18687998/prarthna-luthra" title="StackOverflow"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow" width="40px" height="40px"></a> </p>|
+
+[![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Connect+with+me/>)](https://git.io/typing-svg)
+
+[![Footer](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Footer/>)](https://git.io/typing-svg)
