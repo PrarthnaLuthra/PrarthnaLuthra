@@ -12,7 +12,7 @@
 
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Header/>)](https://git.io/typing-svg)
 
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Github+Stats>)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="Github+Stats">)](https://git.io/typing-svg)
 <!-- Streak Count  -->
 <div align="center">
  <picture>
@@ -36,12 +36,12 @@
 |---|---|
 |[![Repos per language Light](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Repos per language Dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|![Top Langs](https://github-readme-stats-git-master-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=transparent&border_color=7536B2&title_color=0364d0&langs_count=10&card_width=450&hide_border=true&count-private=true)|
 
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Github+Stats/>)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
 ---
 
 <!-- Languages and tools: -->
-[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Languages+and+Tools>)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="Languages+and+tools">)](https://git.io/typing-svg)
 
 <p align="center">
   <div>
@@ -49,18 +49,18 @@
   </div>
 </p>
 
-[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Languages+and+Tools/>)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
 ---
 <!-- trophy -->
 <!-- light mode -->
-[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Achievements>)](https://git.io/typing-svg)
+[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="Achievements">)](https://git.io/typing-svg)
 
 [![trophy light](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-light-mode-only)
 <!-- dark mode -->
 [![trophy dark](https://github-profile-trophy-prarthnaluthra.vercel.app/?username=PrarthnaLuthra&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)
 
-[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Achievements/>)](https://git.io/typing-svg)
+[![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
 [![Footer](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<Footer>)](https://git.io/typing-svg)
  ---
