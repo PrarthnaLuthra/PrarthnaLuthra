@@ -1,5 +1,3 @@
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<body>)](https://git.io/typing-svg)
-
 [![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<header>)](https://git.io/typing-svg)
 
 [![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -115,6 +113,3 @@ export default FullStackDeveloper;
 [![Connect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
 [![Footer](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<footer/>)](https://git.io/typing-svg)
-
-[![](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=</body>)](https://git.io/typing-svg)
-
