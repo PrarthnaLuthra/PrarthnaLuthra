@@ -62,8 +62,10 @@
 
 [![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
+---
+ 
 [![Footer](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<footer>)](https://git.io/typing-svg)
- ---
+
 
 ```javascript
 import React from "react";
