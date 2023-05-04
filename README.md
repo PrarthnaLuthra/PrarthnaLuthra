@@ -12,7 +12,6 @@
 
 [![header](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<header/>)](https://git.io/typing-svg)
 
-
 [![GithubStats](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="githubStats">)](https://git.io/typing-svg)
 <!-- Streak Count  -->
 <div align="center">
