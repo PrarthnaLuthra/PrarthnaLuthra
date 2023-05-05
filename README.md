@@ -2,11 +2,13 @@
 
 [![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 #### I'm a Full Stack Developer with an expertise in React
+
 <!-- Cover Photo -->
 <!-- dark mode -->
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
 <!-- light mode -->
 ![cover-light-mode](https://user-images.githubusercontent.com/100023570/210518490-d36d300e-b4dd-4675-b237-4dfd59123f02.jpg#gh-light-mode-only)
+
 <!-- Animation  -->
 ![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
 
@@ -32,7 +34,7 @@
  
  
 <!-- Stats table -->
- 
+
 |[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=5.5)](https://github.com/PrarthnaLuthra#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=5.5)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/PrarthnaLuthra#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)|
 |---|---|
 |[![Repos per language Light](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)[![Repos per language Dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrarthnaLuthra&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)|![Top Langs](https://github-readme-stats-git-master-prarthnaluthra.vercel.app/api/top-langs/?username=PrarthnaLuthra&layout=compact&theme=transparent&border_color=7536B2&title_color=0364d0&langs_count=10&card_width=450&hide_border=true&count-private=true&exclude_repo=TBI-Mathematical-Model)|
