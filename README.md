@@ -2,7 +2,6 @@
 
 [![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 #### I'm a Full Stack Developer with an expertise in React
-
 <!-- Cover Photo -->
 <!-- dark mode -->
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
@@ -18,9 +17,9 @@
 <!-- Streak Count  -->
 <div align="center">
  <picture>
-  <!-- dark mode -->
+<!-- dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=9c333e&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=f22738&dates=A42EE5&background=0d1117&hide_border=true">
-  <!-- light mode -->
+<!-- light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9554&dates=530081&hide_border=true">
   <img alt="" src="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true">
 </picture>
@@ -32,8 +31,6 @@
 <!-- light mode -->
 ![3d-light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
  
-
-
 <!-- Stats table -->
 
 |[![Productive Time Light](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github&utcOffset=5.5)](https://github.com/PrarthnaLuthra#gh-light-mode-only)[![Productive Time Dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrarthnaLuthra&theme=github_dark&utcOffset=5.5)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)|[![Profile Details Light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github)](https://github.com/PrarthnaLuthra#gh-light-mode-only)[![Profile Details Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrarthnaLuthra&theme=github_dark)](https://github.com/PrarthnaLuthra#gh-dark-mode-only)|
