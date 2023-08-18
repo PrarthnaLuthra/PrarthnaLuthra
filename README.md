@@ -9,9 +9,6 @@
 <!-- light mode -->
 ![cover-light-mode](https://user-images.githubusercontent.com/100023570/210518490-d36d300e-b4dd-4675-b237-4dfd59123f02.jpg#gh-light-mode-only)
 
-<!-- Animation  -->
-![Snake animation](https://github.com/PrarthnaLuthra/PrarthnaLuthra/blob/output/github-contribution-grid-snake.svg)
-
 [![header](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<header/>)](https://git.io/typing-svg)
 
 [![GithubStats](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="githubStats">)](https://git.io/typing-svg)
