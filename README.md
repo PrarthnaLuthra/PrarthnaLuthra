@@ -93,7 +93,6 @@ export default FullStackDeveloper;
 ```
 
 <!--  Git-Stats-Terminal -->
-
 <div>
  <picture>
   <!-- dark mode -->
