@@ -4,7 +4,6 @@
 
 I'm a Full Stack Developer with expertise in React!!
 <!-- Cover pic -->
-
 <!-- dark mode -->
 ![cover](https://user-images.githubusercontent.com/100023570/170828704-320afd8a-fe76-4f32-af9b-f5a9650afb21.png#gh-dark-mode-only)
 <!-- light mode -->
