@@ -83,7 +83,7 @@ function FullStackDeveloper() {
       {githubUser && (
         <p className="text-3xl text-[#A84DFF]">
           Hello World! It's {githubUser.name}, Thanks for dropping by, hope you find some of
-          my work interesting!
+          my work interesting
         </p>
       )}
     </div>
