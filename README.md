@@ -20,7 +20,7 @@ I'm a Full Stack Developer with expertise in React!
 <!-- dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B1&stroke=9243D4&ring=9c333f&currStreakNum=D280F5&sideNums=BC52F4&currStreakLabel=64EAE2&fire=f22738&dates=A42EE4&background=0d1117&hide_border=true">
 <!-- light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14D4&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9555&dates=530081&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=7C14D5&ring=EA5900&currStreakNum=5F0094&sideNums=7F00D0&currStreakLabel=00736C&fire=FF9555&dates=530081&hide_border=true">
   <img alt="" src="https://streak-stats.demolab.com/?user=PrarthnaLuthra&theme=cobalt&border=7536B2&stroke=9243DD&ring=9c333e&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&fire=FF9554&dates=A42EE5&background=0d1117&hide_border=true">
 </picture>
 </div>
