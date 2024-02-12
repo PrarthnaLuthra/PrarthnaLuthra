@@ -55,6 +55,7 @@ I'm a Full Stack Developer with expertise in React!!
 ---
 
 <!-- trophy -->
+
 <!-- light mode -->
 [![Trophy](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="achievements">)](https://git.io/typing-svg)
 
