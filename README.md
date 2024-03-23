@@ -92,6 +92,7 @@ function FullStackDeveloper() {
   );
 }
 
+
 export default FullStackDeveloper;
 ```
 
