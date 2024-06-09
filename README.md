@@ -73,7 +73,7 @@ I'm a Full Stack Developer with expertise in React!
 ```javascript
 import React from "react";
 
-function FullStackDeveloper() {
+function SoftwareDeveloper() {
   const githubUser = {
     name: "Prarthna Luthra",
     techStack: "MERN Stack",
@@ -92,7 +92,7 @@ function FullStackDeveloper() {
   );
 }
 
-export default FullStackDeveloper;
+export default SoftwareDeveloper;
 ```
 <!--  Git-Stats-Terminal -->
 <div>
