@@ -39,6 +39,7 @@ I'm a Full Stack Developer with expertise in React!
 
 [![div](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div/>)](https://git.io/typing-svg)
 
+
 ---
 
 <!-- Languages and tools: -->
