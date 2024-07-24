@@ -10,7 +10,6 @@ I'm a Full Stack Developer with expertise in React!
 <!-- light mode -->
 ![cover-light-mode](https://user-images.githubusercontent.com/100023570/210518490-d36d300e-b4dd-4675-b237-4dfd59123f02.jpg#gh-light-mode-only)
 
-
 [![header](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<header/>)](https://git.io/typing-svg)
 
 [![GithubStats](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&multiline=true&pause=2000&color=A84DFF&width=435&lines=<div+class="githubStats">)](https://git.io/typing-svg)
