@@ -2,7 +2,7 @@
 
 [![Hey](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&multiline=true&pause=1000&color=A84DFF&width=435&lines=Hello+World,+I'm+Prarthna++%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a Full Stack Developer passionate about crafting dynamic and seamless web and mobile applications with React and modern technologies
+I'm a Full Stack Developer passionate about crafting dynamic and seamless web and mobile applications with expertise in React!
 <!-- Cover pic -->
 
 <!-- dark mode -->
